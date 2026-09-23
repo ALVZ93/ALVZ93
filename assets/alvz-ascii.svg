@@ -6,26 +6,26 @@
   <circle cx="51" cy="35" r="4" fill="#8a78db"/>
   <circle cx="67" cy="35" r="4" fill="#4c5061"/>
   <text x="88" y="40" fill="#d9dbe4" font-family="monospace" font-size="13">ALVZ93 / README.md</text>
-  <text xml:space="preserve" fill="#9985ec" opacity=".48" font-family="monospace" font-size="26" font-weight="700">
-      <tspan x="183" dy="0">   ###      ##          ##     ##   #########</tspan>
-      <tspan x="183" dy="29">  ## ##     ##          ##     ##         ## </tspan>
-      <tspan x="183" dy="29"> ##   ##    ##           ##   ##         ##  </tspan>
-      <tspan x="183" dy="29">#########   ##           ##   ##        ##   </tspan>
-      <tspan x="183" dy="29">##     ##   ##            ## ##        ##    </tspan>
-      <tspan x="183" dy="29">##     ##   ##            ## ##       ##     </tspan>
-      <tspan x="183" dy="29">##     ##   #########      ###      #########</tspan>
+  <text xml:space="preserve" y="112" fill="#9985ec" opacity=".45" font-family="monospace" font-size="23" font-weight="700">
+    <tspan x="228" dy="0">   ###      ##          ##     ##   #########</tspan>
+    <tspan x="228" dy="26">  ## ##     ##          ##     ##         ## </tspan>
+    <tspan x="228" dy="26"> ##   ##    ##           ##   ##         ##  </tspan>
+    <tspan x="228" dy="26">#########   ##           ##   ##        ##   </tspan>
+    <tspan x="228" dy="26">##     ##   ##            ## ##        ##    </tspan>
+    <tspan x="228" dy="26">##     ##   ##            ## ##       ##     </tspan>
+    <tspan x="228" dy="26">##     ##   #########      ###      #########</tspan>
   </text>
-  <text xml:space="preserve" fill="#ffe16a" font-family="monospace" font-size="26" font-weight="700">
-      <tspan x="178" dy="0">   ###      ##          ##     ##   #########</tspan>
-      <tspan x="178" dy="29">  ## ##     ##          ##     ##         ## </tspan>
-      <tspan x="178" dy="29"> ##   ##    ##           ##   ##         ##  </tspan>
-      <tspan x="178" dy="29">#########   ##           ##   ##        ##   </tspan>
-      <tspan x="178" dy="29">##     ##   ##            ## ##        ##    </tspan>
-      <tspan x="178" dy="29">##     ##   ##            ## ##       ##     </tspan>
-      <tspan x="178" dy="29">##     ##   #########      ###      #########</tspan>
+  <text xml:space="preserve" y="110" fill="#ffe16a" font-family="monospace" font-size="23" font-weight="700">
+    <tspan x="224" dy="0">   ###      ##          ##     ##   #########</tspan>
+    <tspan x="224" dy="26">  ## ##     ##          ##     ##         ## </tspan>
+    <tspan x="224" dy="26"> ##   ##    ##           ##   ##         ##  </tspan>
+    <tspan x="224" dy="26">#########   ##           ##   ##        ##   </tspan>
+    <tspan x="224" dy="26">##     ##   ##            ## ##        ##    </tspan>
+    <tspan x="224" dy="26">##     ##   ##            ## ##       ##     </tspan>
+    <tspan x="224" dy="26">##     ##   #########      ###      #########</tspan>
   </text>
-  <path d="M176 190h62m586 0h100" stroke="#9a83ed" stroke-width="2" opacity=".65"/>
-  <path d="M898 190h34" stroke="#ffe16a" stroke-width="2"/>
+  <path d="M886 205h30m10 0h12" stroke="#9a83ed" stroke-width="2" opacity=".7"/>
+  <path d="M948 205h18" stroke="#ffe16a" stroke-width="2"/>
   <text x="35" y="326" fill="#aaaebe" font-family="monospace" font-size="12" letter-spacing="2">GALICIA · BUILDING IN PUBLIC</text>
   <text x="1065" y="326" fill="#8d7bd5" font-family="monospace" font-size="12" text-anchor="end">001 / PROFILE</text>
 </svg>
