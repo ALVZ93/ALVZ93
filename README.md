@@ -1,4 +1,20 @@
-## Hi there 👋
+```text
++--------------------------------------------------+
+|  ALVZ93                                           |
+|  SOFTWARE · PRODUCT · GALICIA                    |
++--------------------------------------------------+
+```
+
+> Construyendo Raíces Galicia: tecnología para conectar
+> personas, proyectos y oportunidades rurales.
+
+### Ahora mismo
+- `Astro` · `React` · `TypeScript`
+- Explorando producto digital y vida rural
+
+### Proyecto destacado
+[Raíces Galicia](https://github.com/RubiconL4bs/agriplatform)
+— prototipo para descubrir oportunidades y recursos rurales.
 
 <!--
 **ALVZ93/ALVZ93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
