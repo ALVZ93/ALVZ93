@@ -22,9 +22,34 @@
   </tr>
 </table>
 
-## 📖 Raíces Galicia
+## 🚀 Proyectos
 
-Una iniciativa en construcción para acercar a personas y proyectos al rural: oportunidades, recursos prácticos y conocimiento compartido.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ALVZ93/mars">MARS</a></h3>
+      <p>CLI local e independiente del proveedor para trabajar con agentes de IA desde la terminal.</p>
+      <sub>TypeScript · Node.js</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ALVZ93/pyscanner">PyScan Pro</a></h3>
+      <p>Aplicación de escritorio para digitalizar imágenes y unir u ordenar documentos PDF.</p>
+      <sub>Python · OpenCV</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ALVZ93/anti-slop">Anti-Slop Guardian</a></h3>
+      <p>Skill modular para mejorar la calidad de código, interfaces, diseño visual y escritura.</p>
+      <sub>JavaScript · AI tooling</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ALVZ93/backend-architecture-guardian">Backend Architecture Guardian</a></h3>
+      <p>Guía para diseñar y revisar backends seguros, consistentes y recuperables.</p>
+      <sub>Backend · Architecture</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
