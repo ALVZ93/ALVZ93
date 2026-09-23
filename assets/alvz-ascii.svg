@@ -1,19 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img">
-  <title>ALVZ ASCII banner</title>
-  <rect width="960" height="280" rx="18" fill="#111713"/>
-  <rect x="12" y="12" width="936" height="256" rx="12" fill="none" stroke="#39483d" stroke-width="2"/>
-  <circle cx="38" cy="38" r="5" fill="#ffd84d"/>
-  <circle cx="58" cy="38" r="5" fill="#647364"/>
-  <circle cx="78" cy="38" r="5" fill="#647364"/>
-  <text x="100" y="43" fill="#c1cabb" font-family="monospace" font-size="14" letter-spacing="2">PROFILE // ALVZ93</text>
-  <text xml:space="preserve" fill="#ffd84d" font-family="monospace" font-size="22" font-weight="700" letter-spacing="1.2">
-    <tspan x="226" dy="0">  ###     #       #     #   #######</tspan>
-    <tspan x="226" dy="22"> #   #    #       #     #        # </tspan>
-    <tspan x="226" dy="22">#     #   #       #     #       #  </tspan>
-    <tspan x="226" dy="22">#######   #       #     #      #   </tspan>
-    <tspan x="226" dy="22">#     #   #        #   #      #    </tspan>
-    <tspan x="226" dy="22">#     #   #         # #      #     </tspan>
-    <tspan x="226" dy="22">#     #   #####      #      #######</tspan>
-  </text>
-  <text x="40" y="252" fill="#9eae9d" font-family="monospace" font-size="12" letter-spacing="2">GALICIA · BUILDING IN PUBLIC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img">
+  <title>ALVZ93 — ASCII profile banner</title>
+  <rect width="1100" height="320" rx="14" fill="#0b0d14"/>
+  <rect x="10" y="10" width="1080" height="300" rx="10" fill="none" stroke="#35384a" stroke-width="1.5"/>
+  <circle cx="35" cy="35" r="4" fill="#ffd84d"/>
+  <circle cx="51" cy="35" r="4" fill="#8a78db"/>
+  <circle cx="67" cy="35" r="4" fill="#4c5061"/>
+  <text x="88" y="40" fill="#d9dbe4" font-family="monospace" font-size="13">ALVZ93 / README.md</text>
+
+  <g font-family="monospace" font-size="31" font-weight="700" xml:space="preserve">
+    <text x="184" y="112" fill="#9985ec" opacity=".48">
+      <tspan x="184" dy="0">   ###      #       #     ######</tspan>
+      <tspan x="184" dy="27">  #   #     #       #     #     #</tspan>
+      <tspan x="184" dy="27"> #     #    #       #     #     #</tspan>
+      <tspan x="184" dy="27"> #######    #       #     ######</tspan>
+      <tspan x="184" dy="27"> #     #    #        #   #</tspan>
+      <tspan x="184" dy="27"> #     #    #         # #</tspan>
+      <tspan x="184" dy="27"> #     #    ######     #</tspan>
+    </text>
+    <text x="179" y="109" fill="#ffe16a">
+      <tspan x="179" dy="0">   ###      #       #     ######</tspan>
+      <tspan x="179" dy="27">  #   #     #       #     #     #</tspan>
+      <tspan x="179" dy="27"> #     #    #       #     #     #</tspan>
+      <tspan x="179" dy="27"> #######    #       #     ######</tspan>
+      <tspan x="179" dy="27"> #     #    #        #   #</tspan>
+      <tspan x="179" dy="27"> #     #    #         # #</tspan>
+      <tspan x="179" dy="27"> #     #    ######     #</tspan>
+    </text>
+  </g>
+
+  <path d="M176 190h62m586 0h100" stroke="#9a83ed" stroke-width="2" opacity=".65"/>
+  <path d="M898 190h34" stroke="#ffe16a" stroke-width="2"/>
+  <text x="35" y="282" fill="#aaaebe" font-family="monospace" font-size="12" letter-spacing="2">GALICIA · BUILDING IN PUBLIC</text>
+  <text x="1065" y="282" fill="#8d7bd5" font-family="monospace" font-size="12" text-anchor="end">001 / PROFILE</text>
 </svg>
