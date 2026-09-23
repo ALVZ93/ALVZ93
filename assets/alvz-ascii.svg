@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img">
+  <title>ALVZ ASCII banner</title>
+  <rect width="960" height="280" rx="18" fill="#111713"/>
+  <rect x="12" y="12" width="936" height="256" rx="12" fill="none" stroke="#39483d" stroke-width="2"/>
+  <circle cx="38" cy="38" r="5" fill="#ffd84d"/>
+  <circle cx="58" cy="38" r="5" fill="#647364"/>
+  <circle cx="78" cy="38" r="5" fill="#647364"/>
+  <text x="100" y="43" fill="#c1cabb" font-family="monospace" font-size="14" letter-spacing="2">PROFILE // ALVZ93</text>
+  <text xml:space="preserve" fill="#ffd84d" font-family="monospace" font-size="22" font-weight="700" letter-spacing="1.2">
+    <tspan x="226" dy="0">  ###     #       #     #   #######</tspan>
+    <tspan x="226" dy="22"> #   #    #       #     #        # </tspan>
+    <tspan x="226" dy="22">#     #   #       #     #       #  </tspan>
+    <tspan x="226" dy="22">#######   #       #     #      #   </tspan>
+    <tspan x="226" dy="22">#     #   #        #   #      #    </tspan>
+    <tspan x="226" dy="22">#     #   #         # #      #     </tspan>
+    <tspan x="226" dy="22">#     #   #####      #      #######</tspan>
+  </text>
+  <text x="40" y="252" fill="#9eae9d" font-family="monospace" font-size="12" letter-spacing="2">GALICIA · BUILDING IN PUBLIC</text>
+</svg>
